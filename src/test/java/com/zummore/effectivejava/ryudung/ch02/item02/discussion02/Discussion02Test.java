@@ -1,8 +1,9 @@
 package com.zummore.effectivejava.ryudung.ch02.item02.discussion02;
 
-import ch02.item02.domains.discussion02.Discussion02BuildItem;
-import ch02.item02.domains.discussion02.Discussion02BuildPerMethodItem;
-import ch02.item02.domains.discussion02.Discussion02ConstructorItem;
+
+import com.zummore.effectivejava.ryudung.ch02.item02.domains.discussion02.Discussion02BuildItem;
+import com.zummore.effectivejava.ryudung.ch02.item02.domains.discussion02.Discussion02BuildPerMethodItem;
+import com.zummore.effectivejava.ryudung.ch02.item02.domains.discussion02.Discussion02ConstructorItem;
 import org.junit.Test;
 
 

@@ -1,8 +1,8 @@
 package com.zummore.effectivejava.ryudung.ch02.item02.pizza;
 
-import ch02.item02.domains.pizza.Calzone;
-import ch02.item02.domains.pizza.NyPizza;
-import ch02.item02.domains.pizza.Pizza;
+import com.zummore.effectivejava.ryudung.ch02.item02.domains.pizza.Calzone;
+import com.zummore.effectivejava.ryudung.ch02.item02.domains.pizza.NyPizza;
+import com.zummore.effectivejava.ryudung.ch02.item02.domains.pizza.Pizza;
 import org.junit.Assert;
 import org.junit.Test;
 

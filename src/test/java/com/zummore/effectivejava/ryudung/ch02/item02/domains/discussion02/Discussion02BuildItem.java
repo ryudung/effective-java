@@ -4,10 +4,10 @@ package com.zummore.effectivejava.ryudung.ch02.item02.domains.discussion02;
 import lombok.AccessLevel;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
-import lombok.NonNull;
+import org.springframework.lang.NonNull;
 
-@AllArgsConstructor(access = AccessLevel.PRIVATE)
 @Getter
+@AllArgsConstructor(access = AccessLevel.PRIVATE)
 public class Discussion02BuildItem {
 
     @NonNull

@@ -1,8 +1,7 @@
 package com.zummore.effectivejava.ryudung.ch04.item18;
 
-import ch04.item18.domain.ForwardingPerson;
-import ch04.item18.domain.InstrumentedPersonCar;
-import ch04.item18.domain.Person;
+import com.zummore.effectivejava.ryudung.ch04.item18.domain.InstrumentedPersonCar;
+import com.zummore.effectivejava.ryudung.ch04.item18.domain.Person;
 import org.junit.Assert;
 import org.junit.Test;
 

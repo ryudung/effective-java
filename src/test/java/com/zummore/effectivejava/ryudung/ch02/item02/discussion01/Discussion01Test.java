@@ -1,8 +1,8 @@
 package com.zummore.effectivejava.ryudung.ch02.item02.discussion01;
 
-import ch02.item02.domains.discussion01.Item;
-import ch02.item02.domains.discussion01.Discussion01Item;
-import ch02.item02.domains.discussion01.ManyRequiredItem;
+import com.zummore.effectivejava.ryudung.ch02.item02.domains.discussion01.Discussion01Item;
+import com.zummore.effectivejava.ryudung.ch02.item02.domains.discussion01.Item;
+import com.zummore.effectivejava.ryudung.ch02.item02.domains.discussion01.ManyRequiredItem;
 import org.junit.Assert;
 import org.junit.Test;
 

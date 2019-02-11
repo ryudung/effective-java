@@ -1,6 +1,6 @@
 package com.zummore.effectivejava.ryudung.ch04.item20;
 
-import ch04.item20.domain.VendingMachine;
+import com.zummore.effectivejava.ryudung.ch04.item20.domain.VendingMachine;
 import org.junit.Test;
 
 public class SkeletalImplementationTest {
